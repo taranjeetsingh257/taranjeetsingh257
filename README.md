@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taranjeet</h1>
 <h3 align="center">A passionate Software Engineer from Sterling, Virginia, USA</h3>
 
-- 👨‍💻 Some of my projects are available at [https://taranjeetportfolio.netlify.app/](https://taranjeetportfolio.netlify.app/)
+👨‍💻 Some of my projects are available at [https://taranjeetportfolio.netlify.app/](https://taranjeetportfolio.netlify.app/)
 
-- 📫 How to reach me **taran.career@gmail.com**
+📫 How to reach me **taran.career@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
